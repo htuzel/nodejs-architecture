@@ -1,0 +1,15 @@
+{
+  "name": "price-tracker",
+  "version": "1.0.0",
+  "description": "Price Tracker application for any e-commerce website.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Emre Ozmen",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.28"
+  }
+}
